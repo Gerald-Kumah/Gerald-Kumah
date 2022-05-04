@@ -1,5 +1,5 @@
 ### [#Okuafo Pa](https://twitter.com/OkuafoPa) [#HackLab Foundation](https://www.hacklabfoundation.org/) [#HackLab2022 Hackathon](https://twitter.com/hacklabfdn).
-### I am Gerald Kumah a *Cloud* *Engineer* and *Mobile* *Apps* *Developer* at Okuafo Pa 
+### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Cloud* *Engineer* and *Mobile* *Apps* *Developer* at Okuafo Pa 
 ### Our Mission at Okuafo Pa as a Team is to Digitize Agriculture using *Big Data, Artificial Intelligence* and *Edge Computing*
 
 ### #DigitizingAgriculture with #BigData #ArtificialIntelligence and #EdgeComputing
