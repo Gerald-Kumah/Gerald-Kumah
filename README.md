@@ -1,6 +1,6 @@
 ### Okuafo Pa #HackLab2022 Foundation Hackathon.
-### I am **Gerald** **Kumah** a **Cloud** **Engineer** and **Mobile** **Apps** **Developer** at **Okuafo Pa** 
-### Our Mission at Okuafo Pa as a Team is to Digitize Agriculture using Big Data, Artificial Intelligence and Edge Computing
+### I am Gerald Kumah a *Cloud* *Engineer* and *Mobile* *Apps* *Developer* at Okuafo Pa 
+### Our Mission at Okuafo Pa as a Team is to Digitize Agriculture using *Big Data, Artificial Intelligence and Edge Computing**
 
 ### #DigitizingAgriculture with #BigData #ArtificialIntelligence and #EdgeComputing
 
