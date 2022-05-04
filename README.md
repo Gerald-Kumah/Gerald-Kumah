@@ -1,4 +1,7 @@
-### Okaufo Pa 👋
+### Okuafo Pa #HackLab2022 Foundation Hackathon.
+# I am Gerald Kumah and Mobile of Developer and Cloud Engineer  Okuafo Pa and 
+
+#DigitizingAgriculture with #BigData #ArtificialIntelligence and #EdgeComputing  👋
 
 <!--
 **Gerald-Kumah/Gerald-Kumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
