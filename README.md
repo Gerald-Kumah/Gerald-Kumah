@@ -3,6 +3,7 @@
 ### Our Mission at Okuafo Pa as a Team is to Digitize Agriculture using *Big Data, Artificial Intelligence* and *Edge Computing*
 
 ### #DigitizingAgriculture with #BigData #ArtificialIntelligence and #EdgeComputing
+### Follow Okuafo Pa on [LinkedIn](https://www.linkedin.com/company/okuafo-pa) [Twitter](https://twitter.com/OkuafoPa) [Facebook](https://web.facebook.com/OkuafoPa.Digitizing.Agriculture) [Instagram](https://www.instagram.com/okuafopa_digitizingagriculture/)
 
 <!--
 **Gerald-Kumah/Gerald-Kumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
