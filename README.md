@@ -1,4 +1,4 @@
-### Hi there Coders and Programmers 👋
+### Okaufo Pa 👋
 
 <!--
 **Gerald-Kumah/Gerald-Kumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
