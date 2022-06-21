@@ -1,5 +1,5 @@
 ### 
-### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Telecommunictaion* *Engineer* with a background in *Mobile* *Apps* and * Cloud Computing*  
+### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Telecommunictaion* *Engineer* with a background in *Mobile* *Apps* and *Cloud Computing*  
 ### I am currently taking my AWS Cloud Computing training in AWS Cloud Computing Practitioner (CCP) and AWS Cloud Solutions Architect (CSA) with [Azubi Africa](https://azubiafrica.org/)  
 
 ### Kindly connect with me on [LinkedIn](https://www.linkedin.com/company/in/gerald-kumah/) [Twitter](https://twitter.com/GeraldKumah) [Facebook](https://web.facebook.com/gerald.skillion/) [Instagram](https://www.instagram.com/deladem_smith/)
