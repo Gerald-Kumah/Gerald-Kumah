@@ -1,9 +1,8 @@
-### [#Okuafo Pa](https://twitter.com/OkuafoPa) 
-### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Cloud* *Engineer* and *Mobile* *Apps* *Developer* at Okuafo Pa 
-### Our Mission at Okuafo Pa as a Team is to Digitize Agriculture using *Big Data, Artificial Intelligence* and *Edge Computing*
+### 
+### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Telecommunictaion* *Engineer* with a background in *Mobile* *Apps* and * Cloud Computing*  
+### I am currently taking my AWS Cloud Computing training in AWS Cloud Computing Practitioner (CCP) and AWS Cloud Solutions Architect (CSA) with [Azubi Africa](https://azubiafrica.org/)  
 
-### #DigitizingAgriculture with #BigData #ArtificialIntelligence and #EdgeComputing
-### Follow Okuafo Pa on [LinkedIn](https://www.linkedin.com/company/okuafo-pa) [Twitter](https://twitter.com/OkuafoPa) [Facebook](https://web.facebook.com/OkuafoPa.Digitizing.Agriculture) [Instagram](https://www.instagram.com/okuafopa_digitizingagriculture/)
+### Kindly connect with me on [LinkedIn](https://www.linkedin.com/company/in/gerald-kumah/) [Twitter](https://twitter.com/GeraldKumah) [Facebook](https://web.facebook.com/gerald.skillion/) [Instagram](https://www.instagram.com/deladem_smith/)
 
 <!--
 **Gerald-Kumah/Gerald-Kumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
