@@ -1,6 +1,7 @@
 ### 
-### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Telecommunictaion* *Engineer* with a background in *Mobile* *Apps* and *Cloud Computing*  
-### I am currently taking my AWS Cloud Computing training in AWS Cloud Computing Practitioner (CCP) and AWS Cloud Solutions Architect (CSA) with [Azubi Africa](https://azubiafrica.org/)  
+### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a *Android* *Developer* with a background in *Telecommunication* and *Cloud Computing* 
+### I program in Java, Kotlin, Python and SQL
+### I am currently enrolled in Android Mobile Apps Development training with [Google Africa Developer Scholarship](https://andela.com/alc/google-africa-developer-scholarship-gads/) sponsored by [Google](https://www.google.com/), [Andela](https://andela.com/) and [Pluralsight](https://www.pluralsight.com/) 
 
 ### Kindly connect with me on [LinkedIn](https://www.linkedin.com/company/in/gerald-kumah/) [Twitter](https://twitter.com/GeraldKumah) [Facebook](https://web.facebook.com/gerald.skillion/) [Instagram](https://www.instagram.com/deladem_smith/)
 
