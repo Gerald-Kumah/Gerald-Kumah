@@ -1,5 +1,5 @@
 ### 
-### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) an *Android Developer* with a background in *Telecommunication* and *Cloud Computing* 
+### I am [Gerald Kumah](https://www.linkedin.com/in/gerald-kumah/) a 3D Artist and *Game Developer* with a background in *Telecommunication*, *Cloud Computing* *Blockchain* and *Software Development* 
 ### I program in Java, Kotlin, Python and SQL
 ### I am currently enrolled in Android Mobile Apps Development training with [Google Africa Developer Scholarship](https://andela.com/alc/google-africa-developer-scholarship-gads/) sponsored by [Google](https://www.google.com/), [Andela](https://andela.com/) and [Pluralsight](https://www.pluralsight.com/) 
 
