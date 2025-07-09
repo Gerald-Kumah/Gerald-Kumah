@@ -1,4 +1,4 @@
-## I am [Gerald Kumah](https://www.linkedin.com/in/gerald-edem-kumah) A Cyber-Security Engineer with strong background in Telecommunication.
+## I am [Gerald Kumah](https://www.linkedin.com/in/gerald-edem-kumah) A Cyber-Security Engineer with strong background in *Telecommunication*.
 ## I am a [Certified Fiber Optic Engineer](https://bcert.me/smxaxhpqw) by the [The Fiber Optic Association F.O.A](https://www.thefoa.org/)
 ## I am currently a Telecommunication Instructor at [AdminTelecom Academy](https://admintelecomacademy.com/)
 
